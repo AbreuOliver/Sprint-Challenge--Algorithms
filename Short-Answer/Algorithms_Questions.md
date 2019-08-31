@@ -1,4 +1,4 @@
-# Analysis of Algorithms
+# Analysis of Algorithms \* INITIAL COMMIT
 
 ## Exercise I
 
@@ -10,7 +10,6 @@ a)  a = 0
     while (a < n * n * n):
       a = a + n * n
 ```
-
 
 ```
 b)  sum = 0
