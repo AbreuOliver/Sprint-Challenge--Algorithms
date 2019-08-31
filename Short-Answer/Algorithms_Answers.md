@@ -1,15 +1,11 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
+#### Please add your answers to the **_Analysis of Algorithms_** exercises here.
 
 ## Exercise I
 
-a)
+a) Runtime Analysis: Linear: O(n)
 
+b) Runtime Analysis: Quadratic/Polynomial: O(n^2)
 
-b)
-
-
-c)
+c) Runtime Analysis: Linear: O(n)
 
 ## Exercise II
-
-
